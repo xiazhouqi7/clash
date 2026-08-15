@@ -1,5 +1,7 @@
 # Clash Downloads
 
+[简体中文](./README.zh-CN.md) · **English**
+
 > A lightweight download distribution page maintained as part of the Xiazhouqi project system.
 
 This repository powers a simple, mobile-friendly download page for selected Clash clients and related platform builds.
